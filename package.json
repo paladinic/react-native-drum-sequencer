@@ -19,17 +19,12 @@
     "expo-audio-hooks": "^1.0.3",
     "expo-av": "~13.0.3",
     "expo-file-system": "^15.1.1",
+    "expo-modules-autolinking": "^1.1.2",
     "expo-status-bar": "~1.4.2",
-    "ky": "^0.33.2",
     "react": "18.1.0",
     "react-native": "0.70.5",
-    "react-native-audio": "^4.3.0",
-    "react-native-audio-recorder-player": "^3.5.3",
     "react-native-base64": "^0.2.1",
-    "react-native-paper": "^5.2.0",
-    "react-native-really-awesome-button": "^2.0.4",
-    "react-native-recording": "^0.5.1",
-    "react-native-sound": "^0.11.2"
+    "react-native-paper": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
